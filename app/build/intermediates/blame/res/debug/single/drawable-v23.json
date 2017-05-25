@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/IrrElephant/work/LocationPicker/app/build/intermediates/res/merged/debug/drawable-v23/abc_control_background_material.xml",
+        "source": "/Users/IrrElephant/.android/build-cache/7a402b005afe502ce6b0d0414340a8556a1211c5/output/res/drawable-v23/abc_control_background_material.xml"
+    },
+    {
+        "merged": "/Users/ninja/src/android_location_picker/app/build/intermediates/res/merged/debug/drawable-v23/abc_control_background_material.xml",
+        "source": "/Users/ninja/.android/build-cache/b77c9768b06522cfdcb0a78dba9f9bc307224d81/output/res/drawable-v23/abc_control_background_material.xml"
+    },
+    {
+        "merged": "/Users/ninja/src/android_location_picker/LocationPicker/app/build/intermediates/res/merged/debug/drawable-v23/abc_control_background_material.xml",
+        "source": "/Users/ninja/.android/build-cache/b77c9768b06522cfdcb0a78dba9f9bc307224d81/output/res/drawable-v23/abc_control_background_material.xml"
+    },
+    {
+        "merged": "/Users/ninja/src/LocationPicker/app/build/intermediates/res/merged/debug/drawable-v23/abc_control_background_material.xml",
+        "source": "/Users/ninja/.android/build-cache/b77c9768b06522cfdcb0a78dba9f9bc307224d81/output/res/drawable-v23/abc_control_background_material.xml"
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/Users/ninja/src/android_location_picker/app/build/intermediates/res/merged/debug/menu/menu_main.xml",
+        "source": "/Users/ninja/src/android_location_picker/app/src/main/res/menu/menu_main.xml"
+    },
+    {
+        "merged": "/Users/ninja/src/LocationPicker/app/build/intermediates/res/merged/debug/menu/toolbar.xml",
+        "source": "/Users/ninja/src/LocationPicker/app/src/main/res/menu/toolbar.xml"
+    },
+    {
+        "merged": "/Users/ninja/src/LocationPicker/app/build/intermediates/res/merged/debug/menu/menu_main.xml",
+        "source": "/Users/ninja/src/LocationPicker/app/src/main/res/menu/menu_main.xml"
+    },
+    {
+        "merged": "/Users/IrrElephant/work/LocationPicker/app/build/intermediates/res/merged/debug/menu/menu_main.xml",
+        "source": "/Users/IrrElephant/work/LocationPicker/app/src/main/res/menu/menu_main.xml"
+    },
+    {
+        "merged": "/Users/ninja/src/android_location_picker/LocationPicker/app/build/intermediates/res/merged/debug/menu/menu_main.xml",
+        "source": "/Users/ninja/src/android_location_picker/LocationPicker/app/src/main/res/menu/menu_main.xml"
+    }
+]

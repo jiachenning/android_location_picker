@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "/Users/IrrElephant/work/LocationPicker/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_light.xml",
+        "source": "/Users/IrrElephant/.android/build-cache/7a402b005afe502ce6b0d0414340a8556a1211c5/output/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "/Users/ninja/src/LocationPicker/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_light.xml",
+        "source": "/Users/ninja/.android/build-cache/b77c9768b06522cfdcb0a78dba9f9bc307224d81/output/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "/Users/IrrElephant/work/LocationPicker/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/Users/IrrElephant/.android/build-cache/7a402b005afe502ce6b0d0414340a8556a1211c5/output/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
+    },
+    {
+        "merged": "/Users/ninja/src/android_location_picker/LocationPicker/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_light.xml",
+        "source": "/Users/ninja/.android/build-cache/b77c9768b06522cfdcb0a78dba9f9bc307224d81/output/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "/Users/ninja/src/android_location_picker/LocationPicker/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/Users/ninja/.android/build-cache/b77c9768b06522cfdcb0a78dba9f9bc307224d81/output/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
+    },
+    {
+        "merged": "/Users/ninja/src/LocationPicker/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/Users/ninja/.android/build-cache/b77c9768b06522cfdcb0a78dba9f9bc307224d81/output/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
+    },
+    {
+        "merged": "/Users/ninja/src/android_location_picker/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_light.xml",
+        "source": "/Users/ninja/.android/build-cache/b77c9768b06522cfdcb0a78dba9f9bc307224d81/output/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "/Users/ninja/src/android_location_picker/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/Users/ninja/.android/build-cache/b77c9768b06522cfdcb0a78dba9f9bc307224d81/output/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
+    }
+]

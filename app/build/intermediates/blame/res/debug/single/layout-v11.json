@@ -1,0 +1,98 @@
+[
+    {
+        "merged": "/Users/IrrElephant/work/LocationPicker/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media_narrow.xml",
+        "source": "/Users/IrrElephant/.android/build-cache/7a402b005afe502ce6b0d0414340a8556a1211c5/output/res/layout-v11/notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "/Users/ninja/src/LocationPicker/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media_narrow_custom.xml",
+        "source": "/Users/ninja/.android/build-cache/b77c9768b06522cfdcb0a78dba9f9bc307224d81/output/res/layout-v11/notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "/Users/ninja/src/LocationPicker/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media_custom.xml",
+        "source": "/Users/ninja/.android/build-cache/b77c9768b06522cfdcb0a78dba9f9bc307224d81/output/res/layout-v11/notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "/Users/ninja/src/LocationPicker/app/build/intermediates/res/merged/debug/layout-v11/notification_media_action.xml",
+        "source": "/Users/ninja/.android/build-cache/b77c9768b06522cfdcb0a78dba9f9bc307224d81/output/res/layout-v11/notification_media_action.xml"
+    },
+    {
+        "merged": "/Users/IrrElephant/work/LocationPicker/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media_custom.xml",
+        "source": "/Users/IrrElephant/.android/build-cache/7a402b005afe502ce6b0d0414340a8556a1211c5/output/res/layout-v11/notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "/Users/ninja/src/LocationPicker/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media.xml",
+        "source": "/Users/ninja/.android/build-cache/b77c9768b06522cfdcb0a78dba9f9bc307224d81/output/res/layout-v11/notification_template_big_media.xml"
+    },
+    {
+        "merged": "/Users/ninja/src/android_location_picker/app/build/intermediates/res/merged/debug/layout-v11/notification_media_cancel_action.xml",
+        "source": "/Users/ninja/.android/build-cache/b77c9768b06522cfdcb0a78dba9f9bc307224d81/output/res/layout-v11/notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "/Users/ninja/src/LocationPicker/app/build/intermediates/res/merged/debug/layout-v11/notification_media_cancel_action.xml",
+        "source": "/Users/ninja/.android/build-cache/b77c9768b06522cfdcb0a78dba9f9bc307224d81/output/res/layout-v11/notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "/Users/ninja/src/android_location_picker/LocationPicker/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media_narrow_custom.xml",
+        "source": "/Users/ninja/.android/build-cache/b77c9768b06522cfdcb0a78dba9f9bc307224d81/output/res/layout-v11/notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "/Users/IrrElephant/work/LocationPicker/app/build/intermediates/res/merged/debug/layout-v11/notification_media_action.xml",
+        "source": "/Users/IrrElephant/.android/build-cache/7a402b005afe502ce6b0d0414340a8556a1211c5/output/res/layout-v11/notification_media_action.xml"
+    },
+    {
+        "merged": "/Users/IrrElephant/work/LocationPicker/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media_narrow_custom.xml",
+        "source": "/Users/IrrElephant/.android/build-cache/7a402b005afe502ce6b0d0414340a8556a1211c5/output/res/layout-v11/notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "/Users/ninja/src/android_location_picker/LocationPicker/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media.xml",
+        "source": "/Users/ninja/.android/build-cache/b77c9768b06522cfdcb0a78dba9f9bc307224d81/output/res/layout-v11/notification_template_big_media.xml"
+    },
+    {
+        "merged": "/Users/ninja/src/android_location_picker/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media.xml",
+        "source": "/Users/ninja/.android/build-cache/b77c9768b06522cfdcb0a78dba9f9bc307224d81/output/res/layout-v11/notification_template_big_media.xml"
+    },
+    {
+        "merged": "/Users/ninja/src/android_location_picker/LocationPicker/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media_narrow.xml",
+        "source": "/Users/ninja/.android/build-cache/b77c9768b06522cfdcb0a78dba9f9bc307224d81/output/res/layout-v11/notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "/Users/ninja/src/android_location_picker/LocationPicker/app/build/intermediates/res/merged/debug/layout-v11/notification_media_action.xml",
+        "source": "/Users/ninja/.android/build-cache/b77c9768b06522cfdcb0a78dba9f9bc307224d81/output/res/layout-v11/notification_media_action.xml"
+    },
+    {
+        "merged": "/Users/ninja/src/android_location_picker/LocationPicker/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media_custom.xml",
+        "source": "/Users/ninja/.android/build-cache/b77c9768b06522cfdcb0a78dba9f9bc307224d81/output/res/layout-v11/notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "/Users/IrrElephant/work/LocationPicker/app/build/intermediates/res/merged/debug/layout-v11/notification_media_cancel_action.xml",
+        "source": "/Users/IrrElephant/.android/build-cache/7a402b005afe502ce6b0d0414340a8556a1211c5/output/res/layout-v11/notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "/Users/ninja/src/android_location_picker/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media_custom.xml",
+        "source": "/Users/ninja/.android/build-cache/b77c9768b06522cfdcb0a78dba9f9bc307224d81/output/res/layout-v11/notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "/Users/ninja/src/android_location_picker/LocationPicker/app/build/intermediates/res/merged/debug/layout-v11/notification_media_cancel_action.xml",
+        "source": "/Users/ninja/.android/build-cache/b77c9768b06522cfdcb0a78dba9f9bc307224d81/output/res/layout-v11/notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "/Users/ninja/src/android_location_picker/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media_narrow_custom.xml",
+        "source": "/Users/ninja/.android/build-cache/b77c9768b06522cfdcb0a78dba9f9bc307224d81/output/res/layout-v11/notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "/Users/ninja/src/LocationPicker/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media_narrow.xml",
+        "source": "/Users/ninja/.android/build-cache/b77c9768b06522cfdcb0a78dba9f9bc307224d81/output/res/layout-v11/notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "/Users/ninja/src/android_location_picker/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media_narrow.xml",
+        "source": "/Users/ninja/.android/build-cache/b77c9768b06522cfdcb0a78dba9f9bc307224d81/output/res/layout-v11/notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "/Users/IrrElephant/work/LocationPicker/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media.xml",
+        "source": "/Users/IrrElephant/.android/build-cache/7a402b005afe502ce6b0d0414340a8556a1211c5/output/res/layout-v11/notification_template_big_media.xml"
+    },
+    {
+        "merged": "/Users/ninja/src/android_location_picker/app/build/intermediates/res/merged/debug/layout-v11/notification_media_action.xml",
+        "source": "/Users/ninja/.android/build-cache/b77c9768b06522cfdcb0a78dba9f9bc307224d81/output/res/layout-v11/notification_media_action.xml"
+    }
+]

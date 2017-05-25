@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/ninja/src/android_location_picker/app/build/intermediates/res/merged/release/color-v11/abc_background_cache_hint_selector_material_light.xml",
+        "source": "/Users/ninja/.android/build-cache/b77c9768b06522cfdcb0a78dba9f9bc307224d81/output/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "/Users/ninja/src/android_location_picker/app/build/intermediates/res/merged/release/color-v11/abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/Users/ninja/.android/build-cache/b77c9768b06522cfdcb0a78dba9f9bc307224d81/output/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
+    }
+]

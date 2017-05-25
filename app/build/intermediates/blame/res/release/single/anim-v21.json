@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/ninja/src/android_location_picker/app/build/intermediates/res/merged/release/anim-v21/design_bottom_sheet_slide_out.xml",
+        "source": "/Users/ninja/.android/build-cache/b81b330f218177cadc0292fd7a60556fa71f2206/output/res/anim-v21/design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "/Users/ninja/src/android_location_picker/app/build/intermediates/res/merged/release/anim-v21/design_bottom_sheet_slide_in.xml",
+        "source": "/Users/ninja/.android/build-cache/b81b330f218177cadc0292fd7a60556fa71f2206/output/res/anim-v21/design_bottom_sheet_slide_in.xml"
+    }
+]

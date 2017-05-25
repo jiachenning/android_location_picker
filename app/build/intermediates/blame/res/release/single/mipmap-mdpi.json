@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/ninja/src/android_location_picker/app/build/intermediates/res/merged/release/mipmap-mdpi/ic_launcher_round.png",
+        "source": "/Users/ninja/src/android_location_picker/app/src/main/res/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/ninja/src/android_location_picker/app/build/intermediates/res/merged/release/mipmap-mdpi/ic_launcher.png",
+        "source": "/Users/ninja/src/android_location_picker/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+    }
+]

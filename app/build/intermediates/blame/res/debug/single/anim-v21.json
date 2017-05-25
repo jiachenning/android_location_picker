@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "/Users/ninja/src/LocationPicker/app/build/intermediates/res/merged/debug/anim-v21/design_bottom_sheet_slide_out.xml",
+        "source": "/Users/ninja/.android/build-cache/b81b330f218177cadc0292fd7a60556fa71f2206/output/res/anim-v21/design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "/Users/IrrElephant/work/LocationPicker/app/build/intermediates/res/merged/debug/anim-v21/design_bottom_sheet_slide_out.xml",
+        "source": "/Users/IrrElephant/.android/build-cache/6ff78e2c94e7e3b2b860a751f06d3988f2a78ecb/output/res/anim-v21/design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "/Users/ninja/src/android_location_picker/LocationPicker/app/build/intermediates/res/merged/debug/anim-v21/design_bottom_sheet_slide_out.xml",
+        "source": "/Users/ninja/.android/build-cache/b81b330f218177cadc0292fd7a60556fa71f2206/output/res/anim-v21/design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "/Users/ninja/src/LocationPicker/app/build/intermediates/res/merged/debug/anim-v21/design_bottom_sheet_slide_in.xml",
+        "source": "/Users/ninja/.android/build-cache/b81b330f218177cadc0292fd7a60556fa71f2206/output/res/anim-v21/design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "/Users/ninja/src/android_location_picker/app/build/intermediates/res/merged/debug/anim-v21/design_bottom_sheet_slide_in.xml",
+        "source": "/Users/ninja/.android/build-cache/b81b330f218177cadc0292fd7a60556fa71f2206/output/res/anim-v21/design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "/Users/IrrElephant/work/LocationPicker/app/build/intermediates/res/merged/debug/anim-v21/design_bottom_sheet_slide_in.xml",
+        "source": "/Users/IrrElephant/.android/build-cache/6ff78e2c94e7e3b2b860a751f06d3988f2a78ecb/output/res/anim-v21/design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "/Users/ninja/src/android_location_picker/LocationPicker/app/build/intermediates/res/merged/debug/anim-v21/design_bottom_sheet_slide_in.xml",
+        "source": "/Users/ninja/.android/build-cache/b81b330f218177cadc0292fd7a60556fa71f2206/output/res/anim-v21/design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "/Users/ninja/src/android_location_picker/app/build/intermediates/res/merged/debug/anim-v21/design_bottom_sheet_slide_out.xml",
+        "source": "/Users/ninja/.android/build-cache/b81b330f218177cadc0292fd7a60556fa71f2206/output/res/anim-v21/design_bottom_sheet_slide_out.xml"
+    }
+]
